@@ -1,6 +1,7 @@
 # connect
 
 A new Flutter project.
+here i used firebase authentication
 
 ## Getting Started
 
